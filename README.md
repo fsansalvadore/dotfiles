@@ -6,3 +6,6 @@ This repository is used by [Le Wagon](https://www.lewagon.com) students during o
 - [Sublime Text](https://www.sublimetext.com/)
 - [git](https://git-scm.com/)
 - Ruby via [`rbenv`](https://github.com/rbenv/rbenv)
+
+See [LeWagon Setup Instructions](https://github.com/lewagon/setup/blob/master/macos.md) for Mac dev tooling.
+
